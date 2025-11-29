@@ -1,6 +1,7 @@
 ---
-title: Events
-description: Provides an overview of events and a summary of Roblox's built-in events.
+title: FIRST EVER UPDATE
+description: This is going to be my first ever admin abuse and I created this game by myself
+Its going to be OP...
 ---
 
 Events are occurrences within your experience that you can listen for and respond to. Many Roblox services and objects have built-in events that automatically **fire** in response to specific actions or changes.
